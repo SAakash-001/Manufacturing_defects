@@ -125,7 +125,6 @@ project-directory/
 │
 ├── app.py               # Main Flask application
 ├── sample_data.csv      # Example dataset
-├── model.pkl            # Saved machine learning model (after training)
 ├── README.md            # Documentation
 ```
 
